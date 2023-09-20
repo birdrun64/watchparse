@@ -1,0 +1,11 @@
+secret.py
+__pycache__/
+**/__pycache__/
+_secret_/
+20[0-9][0-9]*/
+*.swp
+*.zip
+dat*.txt
+dat*.out
+*~
+**~
